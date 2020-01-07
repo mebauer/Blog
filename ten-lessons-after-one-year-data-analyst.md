@@ -1,6 +1,6 @@
 # Ten lessons I learned after my first year in data analysis
 
-*Mark Bauer*
+*Mark Bauer*\
 *Jan 2, 2020*
 
 A few weeks ago, I posted my first open source data analysis project titled, "Exploring Art Galleries in Manhattan Using Python,” and published all the code on my GitHub. I attempted to demonstrate a typical data analysis workflow, specifically using NYC’s Open Data. Since a few readers expressed interest in understanding more about the data analysis process, I wanted to share some (non-technical) lessons that I wish I knew when I started data analysis.
