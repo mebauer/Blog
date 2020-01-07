@@ -1,14 +1,15 @@
 # Ten lessons I learned after my first year in data analysis
 
-***Jan 2, 2020 • Mark Bauer***
+*Mark Bauer*
+*Jan 2, 2020*
 
 A few weeks ago, I posted my first open source data analysis project titled, "Exploring Art Galleries in Manhattan Using Python,” and published all the code on my GitHub. I attempted to demonstrate a typical data analysis workflow, specifically using NYC’s Open Data. Since a few readers expressed interest in understanding more about the data analysis process, I wanted to share some (non-technical) lessons that I wish I knew when I started data analysis.
 
-## 1. Understand that *fearlessness* separates great students from good students ##
+## 1. Understand that *fearlessness* separates great students from good students
 
 Before starting graduate school, I asked a data science professor the question, “What characteristics/traits separate great students from good students?” I was expecting answers such as hard working, curiosity, STEM backgrounds, etc. He thought about it for a moment and replied, “fearlessness.” I never forgot his answer and have seen it in practice. 
 
-Lesson: At some point, there will be many smart students/colleagues in the room, but I’ve found that the ability to approach any and every problem truly separates students and carries over to becoming a good data analyst.
+Lesson: Intelligence aside, I’ve found that the ability to approach any and every problem truly separates students and carries over to becoming a good data analyst.
 
 ## 2. Don’t rely on someone else to teach you data analytics skills
 There are many resources online with education platforms such as Coursera, edX, Udemy, and Udacity, to name a few. I find that high-performing students are learning machines and teach themselves skills.
@@ -51,7 +52,7 @@ This bullet also is similar to 7 and 8 (it’s all about people). I really start
 Lesson: Join a community, find people who have similar interests, and take advantage of the resources these groups have to offer.
 
 ## 10. You get better with every project
-When I started out, I wasn’t sure if I was improving. Is my code getting better? Am I understanding this stuff? Looking back at my old projects, I’ve made significant improvement. Every project presents its own challenges, and I’ve accumulated these solutions and have applied them to each new project. 
+When I started out, I wasn’t sure if I was improving. Was my code getting better? Was I understanding this stuff? Looking back at my old projects, I’ve had made significant improvement. Every project presents its own challenges, and I’ve accumulated these solutions and have applied them to each new project. 
 
 Lesson: Your first few projects are never that good (something we all accept). However, this is how you improve. Progress will come, and you will get better the more you do it.
 
